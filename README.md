@@ -1,1 +1,1 @@
-# Habit-Tracker---Eating-out
+# HabitTrackerEatingOut
